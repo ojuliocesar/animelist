@@ -1,0 +1,8 @@
+.main-action  {
+    transition: transform 170ms cubic-bezier(.45, .97, .68, 2.48);
+    text-decoration: none;
+}
+
+.main-action:hover {
+    transform: scale(1.08);
+}
